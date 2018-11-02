@@ -1,9 +1,10 @@
 ---
-title: Hello World!
-featuredImage: /images/uploads/isabella juskova.jpg
-subtitle: This is the home page subtitle
+title: Hope-Solutions
+featuredImage: /images/uploads/ng-32703.jpg
+subtitle: We are Hope-Solutions
 meta:
-  title: ''
+  description: 'This is kinda amazing '
+  title: 'Page Title '
 ---
 
 # Netlify CMS + React Starter
